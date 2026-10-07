@@ -1,25 +1,21 @@
-# ATAD 릴리즈 노트
+# ATAD Release Notes
 
-프로젝트별 변경 사항을 매주 수요일에 Markdown으로 기록합니다. 한 파일에는 해당 주의 릴리즈 내용을 담습니다.
+Explore new features, improvements, and bug fixes for ODiiN and MSP.
 
-## 폴더 구조
+Release notes are currently available in Korean.
 
-```text
-ATAD_RELEASE_NOTES/
-├── README.md
-├── template.md
-├── ODIIN/
-├── MSP/
-└── ASGARRD/
-```
+## Latest Updates · October 7, 2026
 
-릴리즈 노트 파일은 `[프로젝트명]/YYYYMM/YYYY-MM-DD.md` 경로에 저장합니다.
+| Service | Highlights | Release Notes |
+| --- | --- | --- |
+| **ODiiN** | Email verification code sign-in, real-time notifications, and expanded AWS, Azure, and GCP management | [Read in Korean](ODIIN/202610/2026-10-07.md) |
+| **MSP** | Email verification code sign-in, real-time notifications, and improvements to customer, resource, and cost management | [Read in Korean](MSP/202610/2026-10-07.md) |
 
-## 작성 방법
+## Previous Updates
 
-1. [template.md](./template.md)를 복사해 해당 프로젝트의 월별 폴더에 `YYYY-MM-DD.md`로 저장합니다.
-2. 프로젝트명과 날짜를 바꾸고, 해당 주에 실제로 반영된 내용만 적습니다.
-3. `feature`, `change`, `fixed`, `deprecated`, `removed` 중 필요한 태그만 남깁니다. 같은 태그에 변경 사항이 여러 개면 제목과 내용을 이어서 추가합니다.
-4. 각 항목은 제목과 사용자에게 미치는 영향을 적습니다. `deprecated`에는 지원 종료 예정일과 대체 방법을, `removed`에는 제거 내용과 대체 방법을 적습니다.
+### September 2026
 
-아직 확정되지 않은 변경 사항이나 가상 예시는 실제 릴리즈 노트에 넣지 않습니다.
+| Date | ODiiN | MSP |
+| --- | --- | --- |
+| Sep 23 | [Azure VM and VM Scale Set improvements](ODIIN/202609/2026-09-23.md) | [Automatic account manager assignment and revenue view improvements](MSP/202609/2026-09-23.md) |
+| Sep 16 | [Sign-up, MSP connections, and AWS management](ODIIN/202609/2026-09-16.md) | [Customer invitations, permission sets, and member management](MSP/202609/2026-09-16.md) |
