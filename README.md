@@ -4,12 +4,12 @@ Explore new features, improvements, and bug fixes for ODiiN, MSP, and Asgarrd.
 
 Release notes are currently available in Korean.
 
-## Latest Updates · November 11, 2026
+## Latest Updates · November 18, 2026
 
 | Service | Highlights | Release Notes |
 | --- | --- | --- |
-| **ODiiN** | Remote support with your MSP, AWS WAF, EKS, DynamoDB, and Redshift, new Azure App Service, Container Apps, Cosmos DB, and WAF policies, and many new GCP services | [Read in Korean](ODIIN/202611/2026-11-11.md) |
-| **MSP** | Remote support for customers with session controls, work records, and support history | [Read in Korean](MSP/202611/2026-11-11.md) |
+| **ODiiN** | Video and voice calls with recording playback in remote support, cost dashboard by cloud, Azure subscriptions and route tables, GCP log router, Cloud VPN, and IAM resource management, and expanded AWS management | [Read in Korean](ODIIN/202611/2026-11-18.md) |
+| **MSP** | Video and voice calls in remote support, recording playback with call audio and video, and joining support in the current tab | [Read in Korean](MSP/202611/2026-11-18.md) |
 | **Asgarrd** | - | - |
 
 ## Previous Updates
@@ -18,6 +18,7 @@ Release notes are currently available in Korean.
 
 | Date | ODiiN | MSP | Asgarrd |
 | --- | --- | --- | --- |
+| Nov 11 | [Remote support with your MSP, AWS WAF, EKS, DynamoDB, and Redshift, new Azure App Service, Container Apps, Cosmos DB, and WAF policies, and many new GCP services](ODIIN/202611/2026-11-11.md) | [Remote support for customers with session controls, work records, and support history](MSP/202611/2026-11-11.md) | - |
 | Nov 4 | [Fixed missing login email and login type for AWS accounts connected automatically](ODIIN/202611/2026-11-04.md) | - | - |
 
 ### October 2026
